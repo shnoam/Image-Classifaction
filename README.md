@@ -1,2 +1,2 @@
 # Image-Classifaction
-A classifier to detemine if a person wearing a sunglasses or not
+A CNN classifier to detemine if a person is wearing a sunglasses or not.
